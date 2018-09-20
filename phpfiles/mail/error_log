@@ -1,0 +1,44 @@
+[18-Jul-2016 10:05:39 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:06:03 Etc/GMT] PHP Notice:  Undefined index: name in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 23
+[18-Jul-2016 10:06:03 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 24
+[18-Jul-2016 10:06:03 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:06:36 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:08:54 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:09:04 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:10:26 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:10:30 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:18:24 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:47:17 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:49:46 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:52:35 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:52:59 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:53:51 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:54:53 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:55:02 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:56:23 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:56:34 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[18-Jul-2016 10:58:09 Etc/GMT] PHP Fatal error:  Call to undefined function loadsettings() in /home/crtsmargin/public_html/test/phpfiles/mail/registration_mail.php on line 48
+[19-Jul-2016 09:31:34 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/test/phpfiles/mail/checkout_mail.php on line 31
+[20-Jul-2016 07:34:56 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/test/phpfiles/mail/checkout_mail.php on line 31
+[21-Jul-2016 11:50:21 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/test/phpfiles/mail/checkout_mail.php on line 31
+[30-Jul-2016 13:57:09 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/test/phpfiles/mail/checkout_mail.php on line 31
+[30-Jul-2016 14:00:21 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/test/phpfiles/mail/checkout_mail.php on line 31
+[06-Aug-2016 02:00:29 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[06-Aug-2016 18:06:06 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[07-Aug-2016 11:08:38 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[08-Aug-2016 09:26:43 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[09-Aug-2016 15:17:11 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[10-Aug-2016 05:53:49 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[10-Aug-2016 09:55:12 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[10-Aug-2016 11:25:09 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[10-Aug-2016 15:01:56 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[13-Aug-2016 08:14:10 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[22-Aug-2016 12:51:20 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[30-Sep-2016 18:34:45 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[30-Sep-2016 18:54:30 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[03-Oct-2016 06:50:39 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[12-Nov-2016 13:43:40 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[17-Dec-2016 10:24:46 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[15-Jan-2017 16:06:59 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30
+[16-Jan-2017 02:50:29 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/checkout_mail.php on line 31
+[24-Jan-2017 14:03:20 Etc/GMT] PHP Notice:  Undefined index: mail in /home/crtsmargin/public_html/phpfiles/mail/registration_mail.php on line 30

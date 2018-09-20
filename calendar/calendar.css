@@ -1,0 +1,119 @@
+
+#calendarDiv {
+    background-color: #FFFFFF;
+    border: 1px solid #317082;
+    font-family: arial;
+    font-size: 10px;
+    padding: 1px 1px 20px;
+    position: absolute;
+    visibility: hidden;
+    width: 205px;
+}
+#calendarDiv span, #calendarDiv img {
+    float: left;
+}
+#calendarDiv .selectBox, #calendarDiv .selectBoxOver {
+    cursor: pointer;
+    line-height: 12px;
+    padding: 1px 1px 1px 2px;
+}
+#calendarDiv .selectBoxTime, #calendarDiv .selectBoxTimeOver {
+    cursor: pointer;
+    line-height: 12px;
+    padding: 1px 1px 1px 2px;
+}
+#calendarDiv td {
+    font-size: 10px;
+    margin: 0;
+    padding: 3px;
+}
+#calendarDiv .selectBox {
+    border: 1px solid #E2EBED;
+    color: #E2EBED;
+    position: relative;
+}
+#calendarDiv .selectBoxOver {
+    background-color: #3D97D6;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    position: relative;
+}
+#calendarDiv .selectBoxTime {
+    border: 1px solid #317082;
+    color: #317082;
+    position: relative;
+}
+#calendarDiv .selectBoxTimeOver {
+    border: 1px solid #216072;
+    color: #216072;
+    position: relative;
+}
+#calendarDiv .topBar {
+    background-color: #3D97D6;
+    height: 16px;
+    padding: 2px;
+}
+#calendarDiv .activeDay {
+    color: #FF0000;
+}
+#calendarDiv .todaysDate {
+    background-color: #E2EBED;
+    bottom: 0;
+    height: 17px;
+    line-height: 17px;
+    padding: 2px;
+    position: absolute;
+    text-align: center;
+    width: 201px;
+}
+#calendarDiv .todaysDate div {
+    float: left;
+}
+#calendarDiv .timeBar {
+    background-color: #E2EBED;
+    color: #FFFFFF;
+    height: 17px;
+    line-height: 17px;
+    position: absolute;
+    right: 0;
+    width: 72px;
+}
+#calendarDiv .timeBar div {
+    float: left;
+    margin-right: 1px;
+}
+#calendarDiv .monthYearPicker {
+    background-color: #E2EBED;
+    border: 1px solid #AAAAAA;
+    color: #666666;
+    display: none;
+    left: 0;
+    position: absolute;
+    top: 15px;
+    z-index: 1000;
+}
+#calendarDiv #monthSelect {
+    width: 70px;
+}
+#calendarDiv .monthYearPicker div {
+    clear: both;
+    cursor: pointer;
+    float: none;
+    margin: 1px;
+    padding: 1px;
+}
+#calendarDiv .monthYearActive {
+    background-color: #3D97D6;
+    color: #FFFFFF !important;
+}
+#calendarDiv td {
+    cursor: pointer;
+    text-align: right;
+}
+#calendarDiv .topBar img {
+    cursor: pointer;
+}
+#calendarDiv .topBar div {
+    float: left;
+    margin-right: 1px;
+}

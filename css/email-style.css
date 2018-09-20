@@ -1,0 +1,136 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+
+/* body
+{
+	font-family: roboto;
+} */
+.email_header
+{
+	margin-bottom: 25px;  
+	display: inline-block;
+	padding: 15px; 
+	text-align: center; 
+	text-transform: uppercase;
+	margin: 0;
+}
+.email_header1
+{
+	    float: right;
+    color: #e63a2e;
+    margin-bottom: 25px;
+    display: inline-block;
+    padding: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 17px;
+}
+.email_header1 p
+{
+	 
+	 font-size:23px; 
+	 font-weight:600;
+	 text-align: right;
+	 text-transform: capitalize; 
+	 margin: 5px;
+}
+.margin_auto
+{
+	float:none !important;
+	margin:0 auto !important;
+}
+.content-bg 
+{
+	margin-top:41px;
+	    padding-bottom: 40px;
+}
+.content-line
+{
+	  
+    font-size: 17px;
+	    color: #757575;
+}
+.content-line span
+{
+	    font-weight: bold;
+    font-size: 20px;
+	    color: #757575;
+}
+.acc_info
+{
+	    color: #f71f1f;
+		    padding-bottom: 10px;
+}
+.log_info
+{
+	font-size:16px;
+	 color: #757575;
+}
+.log_info span
+{
+	font-weight:bold;
+}
+.log_info1
+{
+	font-size:16px;
+	    color: #2f2f2f;
+}
+.log_info1 a{
+	
+	text-decoration:underline;
+	
+}
+.footer_block {
+    background: #f2f2f2 none repeat scroll 0 0;
+	    clear: both;
+}
+.footer_block_cus div {
+    font-family: roboto;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 20px 10px;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic;
+    display: inline-block;
+}
+.footer_block_cus .footer_title {
+    font-family: roboto;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 10px 1px;
+}
+.copyright_block {
+    background: #2e2b2b none repeat scroll 0 0;
+    padding: 10px 0;
+}
+.copyright {
+    color: #fff;
+    font-family: roboto;
+    font-size: 14px;
+    padding-top: 6px;
+	    padding-left: 32px;
+
+}
+.social_icons {
+    float: right;
+	    padding-right: 31px;
+}
+.social_icons li {
+    background: #6a6868 none repeat scroll 0 0;
+    border-radius: 3px;
+    height: 35px;
+    line-height: 34px;
+    margin-right: 3px;
+    text-align: center;
+    width: 35px;
+	float:left;
+	list-style: none;
+}
+.social_icons li  i
+{
+	    color: #ccc;
+}
